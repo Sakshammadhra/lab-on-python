@@ -6,5 +6,5 @@ def fibonacci(n):
   a, b = b, a + b
 for num in fibonacci(10):
  print(num) # Outputs: 0, 1, 1, 2, 3, 5, 8
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by Saksham Madhra- 0221BCA164")
 
