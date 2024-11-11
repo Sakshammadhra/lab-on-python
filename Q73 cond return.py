@@ -7,4 +7,4 @@ def check_even_odd(number):
     return "Odd"
 result = check_even_odd(4)
 print(result) # Output: Even
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by Saksham Madhra- 0221BCA164")
