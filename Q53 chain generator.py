@@ -9,5 +9,5 @@ def squared_numbers(numbers):
   yield number ** 2
 for square in squared_numbers(count_up_to(5)):
  print(square) # Outputs: 1, 4, 9, 16, 25
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by Saksham Madhra- 0221BCA164")
 
