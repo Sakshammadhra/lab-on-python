@@ -2,4 +2,4 @@
 numbers = [1, 2, 3, 4]
 squared = list(map(lambda x: x**2, numbers))
 print(squared) # Outputs: [1, 4, 9, 16]
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by Saksham Madhra- 0221BCA164")
