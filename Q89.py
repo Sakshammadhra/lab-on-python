@@ -21,5 +21,4 @@ car.display_info()
 car.set_year(1880)
 car.set_year(2025)
 print(car)
-
-print("Program by Diya Bhutani- 0221BCA041")
+print("Program by Saksham Madhra- 0221BCA164")
